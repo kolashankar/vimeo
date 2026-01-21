@@ -3,7 +3,7 @@ name = "autolongvideogeneration"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
     "chardet>=5.2.0",
     "faiss-cpu>=1.12.0",
